@@ -24,6 +24,6 @@ Open [http://localhost:3000/](http://localhost:3000/) to view it in your browser
 
 Launches the test runner in the interactive watch mode.\
 
-### docker compose up
+### `docker compose up`
 
 Alternatively, the application can be run using docker and opening [http://localhost:8080/](http://localhost:8080/) in your browser
